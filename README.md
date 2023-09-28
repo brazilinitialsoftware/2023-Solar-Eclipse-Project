@@ -2,7 +2,9 @@
 
 ![Eclipse Solar 2023](https://images3.alphacoders.com/273/273877.jpg)
 
-Este é um projeto voluntário criado pela equipe da BIS para celebrar o eclipse solar de 2023. O projeto atualmente apresenta representações da lua, do sol e da terra, com o objetivo principal de criar um cronômetro regressivo até a data do eclipse total. Além disso, incentivamos os colaboradores a fazerem melhorias e adições criativas ao projeto.
+Este é um projeto voluntário criado pela equipe da BIS para celebrar o eclipse solar de 2023. 
+
+Neste desafio, Nosso principal objetivo é desenvolver um cronômetro de contagem regressiva até a data do eclipse solar, Os planetas no codigo estão sem animação, e a lua já está projetando sua sombra na Terra. O desafio está lançado. Além disso, encorajamos a aplicação de melhorias significativas, explorando sua criatividade ao máximo.
 
 ### Como contribuir
 
